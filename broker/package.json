@@ -1,0 +1,10 @@
+{
+  "name": "holonet-local-broker",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Loopback-only MQTT broker for HoloNet and Zigbee2MQTT",
+  "dependencies": {
+    "aedes": "1.2.0"
+  }
+}
